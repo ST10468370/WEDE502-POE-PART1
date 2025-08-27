@@ -1,0 +1,5 @@
+[POE PART1 ST10468370.pdf](https://github.com/user-attachments/files/22013429/POE.PART1.ST10468370.pdf)
+[CREATIVE COMMONS RESOURCES.pdf](https://github.com/user-attachments/files/22013431/CREATIVE.COMMONS.RESOURCES.pdf)
+[ORGANIZATION'S WEBSITE.pdf](https://github.com/user-attachments/files/22013432/ORGANIZATION.S.WEBSITE.pdf)
+[ORIGINAL CONTENT.pdf](https://github.com/user-attachments/files/22013437/ORIGINAL.CONTENT.pdf)
+[SOCIAL MEDIA.pdf](https://github.com/user-attachments/files/22013438/SOCIAL.MEDIA.pdf)
