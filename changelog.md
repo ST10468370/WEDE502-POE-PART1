@@ -5,3 +5,5 @@ The third commit contains an external stylesheet that was added. The stylesheet 
 The forth commit contains changes to website, testing the external css link to all webpages.
 
 The fifth commit contains changes to website, testing the external css link to all webpages.
+
+Header styling was added to external stylesheet.
