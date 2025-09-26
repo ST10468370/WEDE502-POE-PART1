@@ -7,3 +7,5 @@ The forth commit contains changes to website, testing the external css link to a
 The fifth commit contains changes to website, testing the external css link to all webpages.
 
 Header styling was added to external stylesheet.
+
+The sixth commit contains styling that was done to various elements of the website, mainly focsuing on the navigation section of the website.
