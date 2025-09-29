@@ -1,11 +1,13 @@
-The second commit contains additional information about the organization. This content was added to the main/index page. The content covers the origin and extra information about the co-operative.
+1.The second commit contains additional information about the organization. This content was added to the main/index page. The content covers the origin and extra information about the co-operative.
 
-The third commit contains an external stylesheet that was added. The stylesheet was then linked to all webpages.
+2.The third commit contains an external stylesheet that was added. The stylesheet was then linked to all webpages.
 
-The forth commit contains changes to website, testing the external css link to all webpages.
+3.The forth commit contains changes to website, testing the external css link to all webpages.
 
-The fifth commit contains changes to website, testing the external css link to all webpages.
+4.The fifth commit contains changes to website, testing the external css link to all webpages.
 
-Header styling was added to external stylesheet.
+5.Header styling was added to external stylesheet.
 
-The sixth commit contains styling that was done to various elements of the website, mainly focsuing on the navigation section of the website.
+6.The sixth commit contains styling that was done to various elements of the website, mainly focsuing on the navigation section of the website.
+
+7.For the seventh commmit, Layout and structure to website was altered and modified, as well as addressing and implementing responsive design.
