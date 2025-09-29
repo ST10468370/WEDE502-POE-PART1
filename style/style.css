@@ -54,3 +54,24 @@ nav a {
 nav a:hover {
     background-color: goldenrod;
 }
+h3{
+    background-color: tan;
+    color: black;
+    padding: 0;
+    text-align: center;
+}
+
+h4{
+        background-color: tan;
+    color: black;
+    padding: 0;
+    text-align: center;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@media (max-width: 768px) and (min-width:320px) {}
