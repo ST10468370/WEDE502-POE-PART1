@@ -13,3 +13,5 @@
 7.For the seventh commmit, Layout and structure to website was altered and modified, as well as addressing and implementing responsive design.
 
 8. The eight commit contains changes that were done and implement based on the feedback of POE PART 2 submission. These changes inculde responvise design implementation, like breakpoints for screen sizes and srcreset, amongst other chnages.
+
+9.The ninth commit contains updates and changes to the website. These updates include an interactive map, as well as dynamic search features.
