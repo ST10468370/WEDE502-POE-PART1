@@ -138,6 +138,11 @@ h4{
  
 }
 
+form{max-width: 400px; margin: auto;}
+input,textarea{width: 100%; padding: 10px;margin: 10px 0;}
+button {padding: 10px 20px;}
+
 .search-bar{ margin-bottom: 20px;}
 .product { border: 1px solid #ddd;padding: 10px;margin-bottom: 10px;}
 .product-name { font-weight: bold;}
+.error {color: red;font-size: 0.9em;}

@@ -4,7 +4,9 @@
 <link rel="stylesheet" href="style/style.css">
 </head>
 <body>
-<img src="img/1B-20.png" width="400" height="175">
+<div class="gallery">
+<img src="img/1B-20.png" alt="Tusk Logo 1" class="gallery-img" width="400" height="175">
+</div>
 <nav>
     <ul>
     <li><a href="index.html"> HOME</a></li>
@@ -14,28 +16,44 @@
     </ul>
  </nav>
 <h2>Talk with Tusk</h2>
-<img src="img/Overberg Range 2.png" width="650" height="500">
+<div class="gallery"></div>
+<img src="img/Overberg Range 2.png" alt="Overberg Range #2" class="gallery-img" width="650" height="500">
+</div>
+<br>
+<h3> Express any concerns and queries below.</h3>
+
+<form id="contactForm">
+    <label>Name:</label>
+    <input type="text" id="name" placeholder="Your Name">
+    <div id="nameError" class="error"></div>
+
+    <label>Email:</label>
+    <input type="email" id="email" placeholder="Your Email">
+    <div id="emailError" class="error"></div>
+
+    <label>Message:</label>
+    <textarea id="message" rows="5" placeholder="Your Message"></textarea>
+    <div id="messageError" class="error"></div>
+
+    <button type="submit"> Send Message</button>
+</form>
+
+
 <table border="1">
-<tr>
-    <th>Express any concerns, questions or queries below.</th>
-</tr>
-<tr>
-    <td>XXXXXXXXXXXXXXXXXXXXXXXX</td>
-</tr>
-<tr>
-    <th>Reach Out to Us!</th>
-</tr>
-<tr>
-    <td>E-mail</td>
-    <td>Contact Number</td>
-</tr>
 <tr>
     <td>info@tuskstudio.co.za</td>
     <td>+27626115291</td>
 </tr>
-</table>
 <br>
-<img src="img/1D-46.png" width="100" height="100">
+<h3>Location</h3>
+<div id="map"></div>
+<script src= https://unpkg.com/leaflet/dist/leaflet.js></script>
+<script src=”map.js”></script>
+
+<br>
+<div class="gallery">
+<img src="img/1D-46.png" alt="Tusk Logo 2" class="gallery-img" width="100" height="100">
+</div>
 
 
 
