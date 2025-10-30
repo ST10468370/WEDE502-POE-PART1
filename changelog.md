@@ -15,3 +15,5 @@
 8. The eight commit contains changes that were done and implement based on the feedback of POE PART 2 submission. These changes inculde responvise design implementation, like breakpoints for screen sizes and srcreset, amongst other chnages.
 
 9.The ninth commit contains updates and changes to the website. These updates include an interactive map, as well as dynamic search features.
+
+10.The tenth commit contains updates to the website. These updates include image file name and alt-text implementation and a contact form was created.
