@@ -4,6 +4,8 @@
 [ORIGINAL CONTENT.pdf](https://github.com/user-attachments/files/22013437/ORIGINAL.CONTENT.pdf)
 [SOCIAL MEDIA.pdf](https://github.com/user-attachments/files/22013438/SOCIAL.MEDIA.pdf)
 [changelog.md](https://github.com/user-attachments/files/23228219/changelog.md)
+
+
 1.The second commit contains additional information about the organization. Additional information about the organization was requested in the feedack of Part 1 by my lecturer. This content was added to the main/index page. The content covers the origin and extra information about the co-operative.
 
 2.The third commit contains an external stylesheet that was added. The stylesheet was then linked to all webpages.
