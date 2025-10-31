@@ -17,3 +17,5 @@
 9.The ninth commit contains updates and changes to the website. These updates include an interactive map, as well as dynamic search features.
 
 10.The tenth commit contains updates to the website. These updates include image file name and alt-text implementation and a contact form was created.
+
+11.The eleventh commit contains updates to the website. These updates include image file name and alt-text implementation and a contact form was created.
