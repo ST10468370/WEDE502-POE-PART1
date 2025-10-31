@@ -2,6 +2,10 @@
 <head>
 <title>STUDIO TUSK </title>
 <link rel="stylesheet" href="style/style.css">
+<script src="contact.js"></script>
+<script src="enquiry.js"></script>
+<script src= https://unpkg.com/leaflet/dist/leaflet.js></script>
+<script src=”map.js”></script>
 </head>
 <body>
 <div class="gallery">
@@ -21,7 +25,9 @@
 </div>
 <br>
 <h3> Express any concerns and queries below.</h3>
+<br>
 
+<h3>Contact Form</h3>
 <form id="contactForm">
     <label>Name:</label>
     <input type="text" id="name" placeholder="Your Name">
@@ -37,7 +43,28 @@
 
     <button type="submit"> Send Message</button>
 </form>
+<br>
 
+<h3>Product Enquiry</h3>
+<form id="enquiryForm">
+    <label for="name">Full Name:</label>
+     <!-- Minimum length for input text -->
+    <input type="text" id="name" name="email" required minlength="3">
+
+    <label for="email"> Email Address:</label>
+    <input type="email" id="email" name="email" required>
+
+    <label for="service">I would like to enquire about the:</label>
+    <select id="service" name="service" required>
+        <option value="">--Select an option below--</option>
+        <option value="furniture set">Heron Set</option>
+        <option value="furniture set">Malkoha Set</option>
+        <option value="furniture set">Barbet Set</option>
+    </select>
+
+    <button type="submit">Submit Enquiry</button>
+    <p id="enquiryResponse" class="response"></p>
+</form>
 
 <table border="1">
 <tr>
@@ -47,8 +74,7 @@
 <br>
 <h3>Location</h3>
 <div id="map"></div>
-<script src= https://unpkg.com/leaflet/dist/leaflet.js></script>
-<script src=”map.js”></script>
+
 
 <br>
 <div class="gallery">
