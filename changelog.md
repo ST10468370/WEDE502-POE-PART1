@@ -19,3 +19,5 @@
 10.The tenth commit contains updates to the website. These updates include image file name and alt-text implementation and a contact form was created.
 
 11.The eleventh commit contains updates to the website. These updates include image file name and alt-text implementation and a contact form was created.
+
+12.This final commit contains updates done to the website. A lightbox gallery was implemented, as well as seo tags. This was pushed along with the css and javascript code.
