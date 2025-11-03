@@ -1,5 +1,10 @@
 <!DOCTYPE html>
 <head>
+    <meta charset="UTF-8">   
+ <meta name="viewport"   content="width=device-width, initial-scale=1.0">
+ <meta name="description" content="View Studio Tusk's website, showcasing the process and outcome of bespoke craftmanship into multi-functional, sustainable furniture pieces.">
+ <meta name="kewywords" content="Studio Tusk,studiotsuk,tusk,studio,furniture,craft,craftmanship,community,sustainability,bespoke,multi-functional, co-op,co-operative">
+ <meta name="author" content="Studio Tusk">
 <title>STUDIO TUSK </title>
 <link rel="stylesheet" href="style/style.css">
 <script src="script.js"></script>
@@ -26,8 +31,27 @@
     <option value="price-asc">Sort by Price (Low-High)</option>
     <option value="price-desc">Sort bY Price (High-Low)</option>
  </select>
-</div>
-<div id="productContainer"></div>
+ </div>
+ <div id="productContainer"></div>
+ <br>
+ <h2>Explore our photo gallery below, showcasing the amazing craftmanship abilities of Tusk.</h2>
+ <div class="gallery">
+    <img src= "img/Overberg Range 8.png" alt="Overberg Range Set #8" class="gallery-img">
+    <img src="img/Overberg Range 2.png" alt="Overberg Range Set #2" class="gallery-img">
+    <img src="img/Barbet 5.png" alt="Barbet Set #5" class="gallery-img">
+    <img src="img/Heron 3.png" alt="Heron Set #3" class="gallery-img">
+    <img src="img/Malkoha 3.png" alt="Malkoha Set #3" class="gallery-img">
+ </div>
+
+ <!--Lightbox Overlay-->
+ <div id="Lightbox" class="Lightbox">
+    <span class="close">&times;</span>
+    <img class="Lightbox content" id="Lightbox-img" alt="Images of Overberg Range Set">
+    <div class="Lightbox-nav">
+        <span class="prev">&#10094;</span>
+        <span class="next">&#10095;</span>
+    </div>
+ </div>
  <br>
  <br>
  <h2>Welcome to our gallery.</h2>
